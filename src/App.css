@@ -1,0 +1,30 @@
+.weather{
+  background: url("https://images.theconversation.com/files/232705/original/file-20180820-30593-1nxanpj.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=1200&h=1200.0&fit=crop");
+  height: 80vh;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+.heading{
+  color: white;
+  font-weight: 700;
+}
+.weatherResultsBox{
+  margin: auto;
+  width: 500px;
+  height: 300px;
+}
+.weathorIcon{
+  margin-top: 2rem;
+  width: 100px;
+  height: 100px;
+}
+.weatherCity{
+  font-size: 35px;
+}
+.weatherTemp
+{
+  font-size: 45px;
+  font-weight: 700;
+}
